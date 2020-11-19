@@ -15,7 +15,7 @@ img {
 }
 
 nav {
-  text-align: : center;
+  text-align: center;
 }
 
 nav a {
@@ -37,10 +37,6 @@ figcaption {
 footer {
   text-align: center;
   width: 100%;
-}
-
-section[id="details"] {
-  display: block;
 }
 
 #details > div {
