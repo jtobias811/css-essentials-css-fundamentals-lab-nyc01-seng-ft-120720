@@ -19,7 +19,8 @@ nav {
 }
 
 nav a {
-  padding: 10px;
+  padding-left: : 10px;
+  padding-right: 10px;
   background: grey;
 }
 
@@ -36,6 +37,10 @@ figcaption {
 footer {
   text-align: center;
   width: 100%;
+}
+
+section[id="details"] {
+  display: block;
 }
 
 #details > div {
