@@ -47,5 +47,6 @@ section[id="details"] {
   display: block;
   float: left;
   width: 25%;
+  text-align: center;
   background: red;
 }
